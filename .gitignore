@@ -1,0 +1,13 @@
+# Executables
+debug
+fact
+factorial_O0
+factorial_O2
+factorial_linked
+math_app_verify
+*.exe
+
+# Intermediate output files
+*.o
+*.i
+*.s
